@@ -1,0 +1,41 @@
+{
+    "name": "one-winter",
+    "displayName": "One-Winter",
+    "description": "Winter theme for VS Code",
+    "publisher": "dhrxvjhx",
+    "author": {
+        "name": "Dhruv Jha",
+        "email": "developer.dhruvjha@gmail.com"
+    },
+    "version": "1.0.0",
+    "repository": {
+        "url": "https://github.com/dhrxvjhx/vscode-One-Winter.git",
+        "type": "git"
+        
+    },
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Winter theme",
+        "theme",
+        "blue theme",
+        "blue"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One-Winter theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One-Winter theme-color-theme.json"
+            }
+        ]
+    }
+}

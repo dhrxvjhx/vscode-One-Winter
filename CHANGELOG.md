@@ -19,3 +19,8 @@ Date Format - DD-MM-YYYY.
 - Github Repositry added
 - Readme Updated
 - LICENSE Initiated
+
+## [1.0.1] - 11-02-2021
+
+- New Logo
+- Readme Updated

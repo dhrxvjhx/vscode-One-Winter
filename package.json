@@ -7,12 +7,13 @@
         "name": "Dhruv Jha",
         "email": "developer.dhruvjha@gmail.com"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "url": "https://github.com/dhrxvjhx/vscode-One-Winter.git",
         "type": "git"
         
     },
+    "icon": "release/logo.png",
     "engines": {
         "vscode": "^1.53.0"
     },
